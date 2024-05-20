@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
+// https://doc.tmssoftware.com/flexcel/net/guides/getting-started.html
 using FlexCel.Core;
 using FlexCel.XlsAdapter;
 
